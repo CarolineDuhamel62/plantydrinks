@@ -1,0 +1,66 @@
+/*
+Theme Name: Sydney Child
+Theme URI: https://athemes.com/theme/sydney
+Template: sydney
+Author: Caroline
+Author URI: https://athemes.com
+Description: Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page. Looking for a quick start with Sydney? With just a few clicks, you can import one of our existing demos (https://athemes.com/sydney-demos/)
+Tags: two-columns,right-sidebar,block-styles,custom-colors,custom-background,custom-header,custom-menu,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 2.54.1748360414
+Updated: 2025-05-27 15:40:14
+
+*/
+
+#menu-1-497ad96 li {
+    margin: 0;
+    align-content: center;
+}
+
+#menu-1-497ad96 a {
+    color: #000000;
+}
+
+#menu-item-1681 a {
+    height: 50px;
+}
+
+#menu-1-497ad96{
+    margin: 0;
+    justify-content: flex-end;
+}
+
+.elementor-widget-container nav {
+    justify-content: flex-end;
+}
+
+
+.elementor-element-cbbede4{
+    padding: 0;
+    margin: -3px;
+}
+
+.elementor-element-b1973f4{
+    padding: 0;
+}
+
+.elementor-107{
+    margin-right: -10px;
+}
+
+.form-commande h3 {
+    font-weight: 700;
+    font-family: 'Syne', sans-serif;
+}
+
+.form-commande  {
+    color: white;
+}
+
+
+    .elementor-107{
+    margin-right: 0;
+}
+.elementor-18 .elementor-element.elementor-element-7c1d382::before{
+    background-color: #ECE2DA;
+}
+
